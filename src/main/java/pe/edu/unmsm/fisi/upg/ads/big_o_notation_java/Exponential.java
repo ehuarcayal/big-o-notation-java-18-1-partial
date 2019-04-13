@@ -23,6 +23,7 @@ public class Exponential {
 	}
 	
 	
+	//Optimización del Algoritmo de fibonacci
 	public long fibonacciOpt(int n) throws Exception{
 		long a = 0, b = 1, c;
 		
