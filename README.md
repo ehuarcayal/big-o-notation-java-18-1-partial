@@ -3,5 +3,5 @@ Big O Notation - Java - 18-1 - Partial
 
 Nombre: Erick Huarcaya López
 
-1. Sesión 2 - Práctica de optimización del Algoritmo de Fibnacci       a6e9501aa187e97706990a067234669b6382b099
-2. Sesión 2 - Práctica de optimización en Estructura de Datos          c276f5dce8e8adcaa6324bcf3991c14d318fe877 
+1. Sesión 2 - Práctica de optimización del Algoritmo de Fibnacci       [Link Archivo](https://github.com/ehuarcayal/big-o-notation-java-18-1-partial/blob/master/src/main/java/pe/edu/unmsm/fisi/upg/ads/big_o_notation_java/Exponential.java)
+2. Sesión 2 - Práctica de optimización en Estructura de Datos          [Link Archivo](https://github.com/ehuarcayal/big-o-notation-java-18-1-partial/blob/master/src/main/java/pe/edu/unmsm/fisi/upg/ads/big_o_notation_java/ds/LogReader.java)
